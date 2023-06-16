@@ -1,4 +1,4 @@
-# Todoist-Decentralized 📚🔖🗸
+# Todoist-dApp 📚🔖🗸
 
 This project aims to provide To-Do list-like functionality, allowing users to store and manage tasks on the blockchain. Solidity is used to write the smart contracts that support the task storage and management logic, and ReactJS with NextJS to develop an interactive and friendly user interface. The application integrates with Sepolia  Testnet, which means it can be adjusted and tailored according to the user's specific requirements. By using blockchain technology, the transparency, security and censorship resistance of the tasks stored in the application is guaranteed.
 
